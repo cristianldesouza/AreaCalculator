@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="select_form">Selecione a forma</string>
+    <string name="square">Quadrado</string>
+    <string name="square_long">Informe os dados do quadrado em centímetros</string>
+    <string name="result">Área em cm²:</string>
+    <string name="triangle">Triângulo</string>
+    <string name="triangle_long">Informe os dados do triângulo em centímetros</string>
+    <string name="circle">Círculo</string>
+    <string name="circle_long">Informe o raio do círculo em centímetros</string>
+    <string name="next">Avançar</string>
+    <string name="base">Base</string>
+    <string name="height">Altura</string>
+    <string name="type_base">Digite a Base</string>
+    <string name="type_radius">Digite o Raio</string>
+    <string name="type_height">Digite a Altura</string>
+    <string name="calc">Calcular</string>
+    <string name="radius">Raio</string>
+    <string name="go_back">voltar</string>
+</resources>
